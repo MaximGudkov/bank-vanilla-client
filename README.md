@@ -1,1 +1,2 @@
-Bank vanilla client
+# Bank vanilla client
+### practicing vanillla JavaScript skill
